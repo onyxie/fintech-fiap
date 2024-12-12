@@ -1,0 +1,21 @@
+body {
+  background-color: #272635;
+  height: 100%;
+}
+
+.btn-brand {
+  background-color: #272635;
+  border-radius: 25px;
+  font-size: larger;
+  font-weight: 600;
+}
+
+.input-brand {
+  border-radius: 25px;
+  background-color: #e8e9f3;
+}
+
+.input-brand:focus {
+  border-radius: 25px;
+  background-color: #e8e9f3;
+}
